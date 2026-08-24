@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movers_v2", "Movers_v2\Movers_v2.csproj", "{54791576-8AFD-480C-B7F6-0BA23728AC14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54791576-8AFD-480C-B7F6-0BA23728AC14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54791576-8AFD-480C-B7F6-0BA23728AC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54791576-8AFD-480C-B7F6-0BA23728AC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54791576-8AFD-480C-B7F6-0BA23728AC14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {800443AB-E5C4-4BED-B1D5-3B98963DF394}
+	EndGlobalSection
+EndGlobal
